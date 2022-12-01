@@ -1,0 +1,26 @@
+package poo;
+
+public class Caneta03 {
+          String modelo;
+          String cor;
+          float ponta; 
+          float carga;
+          
+          
+          public void escrever () {
+		}
+          public void tampar () {
+          }
+		public Caneta03(String modelo, String cor, float ponta, float carga) {
+			
+			this.modelo = "BIC";
+			this.cor = "Rosa"
+			this.ponta = 0.5f;
+			this.carga = carga;
+		}
+        
+
+
+
+}
+

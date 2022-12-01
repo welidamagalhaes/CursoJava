@@ -1,0 +1,18 @@
+package abc;
+
+public class Caneta02 {
+       public String modelo;
+       private float ponta;
+       private String cor;
+       private boolean tampada;
+	public Caneta02(String modelo, float ponta, String cor, boolean tampada) {
+		super();
+		this.modelo = modelo;
+		this.ponta = ponta;
+		this.cor = cor;
+		this.tampada = tampada;
+	}
+       
+}
+
+
